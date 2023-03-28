@@ -2,6 +2,9 @@
 
 The Chat Customer service Bot is a chat that uses the OpenAI API to adress angry customers and fix assist them on their request as sell some products at the same time.
 
+![Kapture 2023-03-28 at 15 13 11](https://user-images.githubusercontent.com/1288502/228362564-55c573f6-d3da-461f-ba2a-8ea5173df17a.gif)
+
+
 ### Getting Started
 
 To get started with the project, follow these steps:
